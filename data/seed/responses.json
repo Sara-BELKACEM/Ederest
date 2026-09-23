@@ -1,0 +1,322 @@
+[
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 1,
+    "trigger_type": "navigation",
+    "rating": 5,
+    "comment": "Très clair et rapide pour accéder au module.",
+    "timestamp": "2026-09-21T14:30:54.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 2,
+    "trigger_type": "idle",
+    "rating": 3,
+    "comment": "Un peu hésitant sur le code Purchasing Group.",
+    "timestamp": "2026-09-21T14:31:42.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 4,
+    "trigger_type": "completion",
+    "rating": 4,
+    "comment": "Le bouton Enregistrer & Soumettre fonctionne bien.",
+    "timestamp": "2026-09-21T14:33:46.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 1,
+    "trigger_type": "completion",
+    "rating": 5,
+    "comment": "Menu facile à trouver avec la tabulation.",
+    "timestamp": "2026-09-21T15:15:36.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 2,
+    "trigger_type": "wrong_click",
+    "rating": 3,
+    "comment": "Tab navigation jumped between inputs unexpectedly.",
+    "timestamp": "2026-09-21T15:16:02.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 3,
+    "trigger_type": "idle",
+    "rating": 1,
+    "comment": "Impossible de trouver le code vendeur, je suis complètement bloqué !",
+    "timestamp": "2026-09-21T15:17:09.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 4,
+    "trigger_type": "completion",
+    "rating": 4,
+    "comment": "Clear summary table before final submission.",
+    "timestamp": "2026-09-21T15:17:56.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 3,
+    "trigger_type": "wrong_click",
+    "rating": 1,
+    "comment": "Où est la liste des fournisseurs autorisés ? Rien n'est indiqué.",
+    "timestamp": "2026-09-21T16:02:07.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 4,
+    "trigger_type": "idle",
+    "rating": 3,
+    "comment": "Est-ce que le bon de commande est bien validé définitivement ?",
+    "timestamp": "2026-09-21T16:02:45.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 1,
+    "trigger_type": "completion",
+    "rating": 4,
+    "comment": "Simple and direct starting instruction.",
+    "timestamp": "2026-09-21T16:45:44.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 2,
+    "trigger_type": "completion",
+    "rating": 4,
+    "comment": "Les valeurs par défaut aident bien.",
+    "timestamp": "2026-09-21T16:46:15.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 3,
+    "trigger_type": "wrong_click",
+    "rating": 1,
+    "comment": "Where do I find the vendor code? Tried multiple formats and none worked.",
+    "timestamp": "2026-09-21T16:46:55.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 4,
+    "trigger_type": "completion",
+    "rating": 3,
+    "comment": "A confirmation dialog would make me feel more confident.",
+    "timestamp": "2026-09-21T16:47:31.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 1,
+    "trigger_type": "completion",
+    "rating": 4,
+    "comment": "Good visual breadcrumbs.",
+    "timestamp": "2026-09-21T17:30:53.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 2,
+    "trigger_type": "completion",
+    "rating": 4,
+    "comment": "Clear organization header, no major issues.",
+    "timestamp": "2026-09-21T17:31:19.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 3,
+    "trigger_type": "wrong_click",
+    "rating": 2,
+    "comment": "Le champ Vendor Code rejette ma saisie sans message d'erreur clair.",
+    "timestamp": "2026-09-21T17:32:18.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 4,
+    "trigger_type": "completion",
+    "rating": 4,
+    "comment": "تم إرسال الطلب بنجاح ولكن ينقص تأكيد نهائي برقم الطلب.",
+    "timestamp": "2026-09-21T17:33:03.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 4,
+    "trigger_type": "completion",
+    "rating": 5,
+    "comment": "Bonne étape finale, simple et rapide.",
+    "timestamp": "2026-09-21T18:17:33.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 3,
+    "trigger_type": "idle",
+    "rating": 1,
+    "comment": "Stuck on vendor code for 4 minutes. Giving up now.",
+    "timestamp": "2026-09-21T19:02:16.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 4,
+    "trigger_type": "completion",
+    "rating": 4,
+    "comment": "Finished the task smoothly once past step 3.",
+    "timestamp": "2026-09-21T19:03:02.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 3,
+    "trigger_type": "navigation",
+    "rating": 2,
+    "comment": "Besoin d'un menu déroulant pour le code fournisseur.",
+    "timestamp": "2026-09-21T19:47:13.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 1,
+    "trigger_type": "completion",
+    "rating": 4,
+    "comment": "L'intitulé est précis.",
+    "timestamp": "2026-09-21T20:30:46.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 2,
+    "trigger_type": "idle",
+    "rating": 3,
+    "comment": "Pourquoi Purchasing Group 001 ? Une explication serait utile.",
+    "timestamp": "2026-09-21T21:16:31.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 3,
+    "trigger_type": "idle",
+    "rating": 1,
+    "comment": "لم أتمكن من العثور على رمز المورد، يرجى تقديم قائمة واضحة.",
+    "timestamp": "2026-09-21T21:17:19.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 1,
+    "trigger_type": "completion",
+    "rating": 5,
+    "comment": "بداية واضحة وسهلة في شريط التنقل.",
+    "timestamp": "2026-09-21T22:00:44.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 3,
+    "trigger_type": "idle",
+    "rating": 2,
+    "comment": "Format US-VEND-100 is not obvious unless you open the hint.",
+    "timestamp": "2026-09-21T22:02:28.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 1,
+    "trigger_type": "idle",
+    "rating": 4,
+    "comment": "Tout fonctionne bien au début.",
+    "timestamp": "2026-09-21T22:45:51.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 2,
+    "trigger_type": "wrong_click",
+    "rating": 3,
+    "comment": "الانتقال بالزر tab يحتاج إلى تركيز أكثر وضوحا.",
+    "timestamp": "2026-09-21T23:31:30.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 3,
+    "trigger_type": "wrong_click",
+    "rating": 1,
+    "comment": "Je clique partout et rien ne valide le fournisseur.",
+    "timestamp": "2026-09-21T23:32:12.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 2,
+    "trigger_type": "idle",
+    "rating": 4,
+    "comment": "Took me a moment to find Purchasing Org field.",
+    "timestamp": "2026-09-22T00:16:31.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 3,
+    "trigger_type": "idle",
+    "rating": 2,
+    "comment": "Très frustrant de ne pas avoir d'exemple directement sous le champ.",
+    "timestamp": "2026-09-22T01:02:47.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 3,
+    "trigger_type": "wrong_click",
+    "rating": 2,
+    "comment": "Vendor field should have auto-complete or lookup popup.",
+    "timestamp": "2026-09-22T01:47:39.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 3,
+    "trigger_type": "navigation",
+    "rating": 1,
+    "comment": "J'abandonne la tâche ici, trop compliqué sans guide.",
+    "timestamp": "2026-09-22T02:32:59.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 3,
+    "trigger_type": "wrong_click",
+    "rating": 1,
+    "comment": "حقل المورد غير واضح على الإطلاق ويسبب الارتباك.",
+    "timestamp": "2026-09-22T03:16:56.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 2,
+    "trigger_type": "completion",
+    "rating": 4,
+    "comment": "Correct dans l'ensemble.",
+    "timestamp": "2026-09-22T04:46:24.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 3,
+    "trigger_type": "wrong_click",
+    "rating": 2,
+    "comment": "No feedback on why vendor US-100 was rejected.",
+    "timestamp": "2026-09-22T04:47:47.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 3,
+    "trigger_type": "idle",
+    "rating": 3,
+    "comment": "Le hint m'a aidé mais j'ai perdu 5 minutes avant de le voir.",
+    "timestamp": "2026-09-22T06:17:27.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 3,
+    "trigger_type": "wrong_click",
+    "rating": 2,
+    "comment": "Code fournisseur enfin trouvé après plusieurs erreurs.",
+    "timestamp": "2026-09-22T07:02:38.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 3,
+    "trigger_type": "idle",
+    "rating": 1,
+    "comment": "Blocking step! Needs dropdown selector immediately.",
+    "timestamp": "2026-09-22T07:46:58.937753+00:00"
+  },
+  {
+    "session_id": "8d1b9c5e-4bad-432f-87ab-2b8f9105441b",
+    "step_id": 3,
+    "trigger_type": "idle",
+    "rating": 1,
+    "comment": "Contactez le support sur [email] car impossible de continuer.",
+    "timestamp": "2026-09-22T08:31:57.937753+00:00"
+  }
+]
