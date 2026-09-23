@@ -1,0 +1,40 @@
+:root {
+  /* Colors */
+  --color-primary: #4F46E5;
+  --color-primary-light-bg: #EEF2FF;
+  --color-accent-green-bg: #ECFDF5;
+  --color-accent-green-text: #059669;
+  --color-accent-orange: #F59E0B;
+  --color-callout-bg: #EAF1FB;
+  --color-illustration-bg: #DCE7F9;
+  --color-surface: #FFFFFF;
+  --color-page-bg: #F5F6F8;
+  --color-border: #E5E7EB;
+  --color-text-primary: #111827;
+  --color-text-secondary: #6B7280;
+  --color-text-muted: #9CA3AF;
+  --color-success-dot: #22C55E;
+
+  /* Typography */
+  --font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --text-page-title: 16px;
+  --text-card-title: 20px;
+  --text-section-heading: 24px;
+  --text-subsection-label: 15px;
+  --text-body: 15px;
+  --text-nav-item: 14px;
+  --text-metadata: 13px;
+  --text-stat-value: 22px;
+  --text-stat-label: 12px;
+  --text-badge: 13px;
+
+  /* Spacing & Sizing */
+  --radius-card: 12px;
+  --radius-pill: 999px;
+  --radius-avatar: 999px;
+  --sidebar-icon-rail-width: 64px;
+  --sidebar-panel-width: 250px;
+  --card-padding: 20px;
+  --gap-stack: 14px;
+  --progress-bar-height: 6px;
+}
