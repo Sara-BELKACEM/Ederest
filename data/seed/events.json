@@ -1,0 +1,3103 @@
+[
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T14:30:19.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T14:30:54.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T14:30:59.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T14:31:42.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T14:31:47.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T14:33:04.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T14:33:04.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T14:33:04.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T14:33:09.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T14:33:46.937753+00:00"
+  },
+  {
+    "session_id": "aa02344f-5700-4be5-b61c-e5b4d81fca3f",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T14:33:51.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T15:15:19.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T15:15:36.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T15:15:41.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-21T15:16:02.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T15:16:02.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T15:16:07.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T15:17:09.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T15:17:09.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T15:17:09.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T15:17:14.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T15:17:56.937753+00:00"
+  },
+  {
+    "session_id": "bb6468c7-1bb4-49bb-a184-553825a2224d",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T15:18:01.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T16:00:19.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T16:00:54.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T16:00:59.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-21T16:01:32.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T16:01:32.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T16:01:37.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T16:02:07.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T16:02:07.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T16:02:12.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T16:02:45.937753+00:00"
+  },
+  {
+    "session_id": "036528f7-7d9d-4786-8bc0-9f63c0931ebb",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T16:02:50.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T16:45:19.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T16:45:44.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T16:45:49.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T16:46:15.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T16:46:20.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T16:46:55.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T16:46:55.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T16:46:55.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T16:47:00.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T16:47:31.937753+00:00"
+  },
+  {
+    "session_id": "a9f37b15-30be-445d-b05e-1e979ba89e76",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T16:47:36.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T17:30:19.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T17:30:53.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T17:30:58.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T17:31:19.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T17:31:24.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T17:32:18.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T17:32:18.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T17:32:18.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T17:32:23.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T17:33:03.937753+00:00"
+  },
+  {
+    "session_id": "018b9ba7-5af7-4455-a86c-6617ea467680",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T17:33:08.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T18:15:19.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T18:15:53.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T18:15:58.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T18:16:29.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T18:16:34.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T18:17:06.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T18:17:06.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T18:17:06.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T18:17:11.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T18:17:33.937753+00:00"
+  },
+  {
+    "session_id": "8aaf22ab-cab4-4480-bd94-70caa7b69c87",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T18:17:38.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T19:00:19.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T19:00:41.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T19:00:46.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T19:01:18.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T19:01:23.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T19:02:16.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T19:02:16.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T19:02:16.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T19:02:21.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T19:03:02.937753+00:00"
+  },
+  {
+    "session_id": "18d2788f-12d2-47ec-b30e-0bf6420656be",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T19:03:07.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T19:45:19.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T19:45:42.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T19:45:47.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T19:46:28.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T19:46:33.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T19:47:13.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T19:47:13.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T19:47:13.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T19:47:18.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T19:47:52.937753+00:00"
+  },
+  {
+    "session_id": "69106092-19b6-4b2e-8140-000481dc8590",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T19:47:57.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T20:30:19.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T20:30:46.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T20:30:51.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T20:31:40.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T20:31:45.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T20:32:58.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T20:32:58.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T20:32:58.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T20:33:03.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T20:33:24.937753+00:00"
+  },
+  {
+    "session_id": "c3d2bd28-e69b-4087-973a-0b280b3a770f",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T20:33:29.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T21:15:19.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T21:15:41.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T21:15:46.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T21:16:31.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T21:16:36.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T21:17:19.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T21:17:19.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T21:17:24.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T21:18:06.937753+00:00"
+  },
+  {
+    "session_id": "f78a744b-c7da-474c-bb47-3568e4c0604b",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T21:18:11.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T22:00:19.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T22:00:44.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T22:00:49.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T22:01:24.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T22:01:29.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T22:02:28.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T22:02:28.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T22:02:28.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T22:02:33.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T22:03:16.937753+00:00"
+  },
+  {
+    "session_id": "99e3a01b-033b-4495-b233-4dd3d6c837c9",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T22:03:21.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T22:45:19.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T22:45:51.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T22:45:56.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T22:46:39.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T22:46:44.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T22:47:39.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T22:47:39.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T22:47:39.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T22:47:44.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T22:48:08.937753+00:00"
+  },
+  {
+    "session_id": "bbe623d3-f020-44c1-8109-bce5de1330f7",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T22:48:13.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-21T23:30:19.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-21T23:30:50.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-21T23:30:55.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-21T23:31:30.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-21T23:31:30.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-21T23:31:35.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-21T23:32:12.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-21T23:32:12.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-21T23:32:12.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-21T23:32:17.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-21T23:32:58.937753+00:00"
+  },
+  {
+    "session_id": "119bdd56-1f8c-4bb8-812c-6acc706458b3",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-21T23:33:03.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T00:15:19.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T00:15:47.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T00:15:52.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T00:16:31.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T00:16:31.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T00:16:36.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T00:17:35.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T00:17:35.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T00:17:35.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T00:17:40.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-22T00:18:00.937753+00:00"
+  },
+  {
+    "session_id": "068399c0-19fc-481a-a0d6-c29ddf2100f7",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-22T00:18:05.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T01:00:19.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T01:00:37.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T01:00:42.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T01:01:23.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T01:01:28.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T01:02:47.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T01:02:47.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T01:02:47.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T01:02:52.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-22T01:03:25.937753+00:00"
+  },
+  {
+    "session_id": "a0e85933-54b6-409d-b83a-66727ea7ccce",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-22T01:03:30.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T01:45:19.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T01:45:39.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T01:45:44.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T01:46:18.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T01:46:18.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T01:46:23.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T01:47:39.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T01:47:39.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T01:47:39.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T01:47:44.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-22T01:48:09.937753+00:00"
+  },
+  {
+    "session_id": "e804ba99-38f3-44c6-8335-2555dc9a6076",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-22T01:48:14.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T02:30:19.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T02:30:50.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T02:30:55.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T02:31:44.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T02:31:44.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T02:31:49.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T02:32:59.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T02:32:59.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T02:32:59.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T02:33:04.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-22T02:33:35.937753+00:00"
+  },
+  {
+    "session_id": "4615b86d-bcd4-47b2-be1a-49b14c154ab9",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-22T02:33:40.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T03:15:19.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T03:15:39.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T03:15:44.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T03:16:21.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T03:16:26.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T03:16:56.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T03:16:56.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T03:16:56.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T03:17:01.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-22T03:17:24.937753+00:00"
+  },
+  {
+    "session_id": "35107c89-17d6-43f1-9d88-43a3670322f7",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-22T03:17:29.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T04:00:19.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T04:00:45.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T04:00:50.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T04:01:38.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T04:01:43.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T04:02:28.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T04:02:28.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T04:02:28.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T04:02:33.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-22T04:02:55.937753+00:00"
+  },
+  {
+    "session_id": "6a7dcf19-4564-48fd-819b-94ab70a12a23",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-22T04:03:00.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T04:45:19.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T04:45:36.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T04:45:41.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T04:46:24.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T04:46:29.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T04:47:47.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T04:47:47.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T04:47:47.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T04:47:52.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-22T04:48:33.937753+00:00"
+  },
+  {
+    "session_id": "ae54a7b4-1a71-40ad-a1d5-70f37150f5e2",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-22T04:48:38.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T05:30:19.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T05:30:49.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T05:30:54.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T05:31:44.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T05:31:49.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T05:32:35.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T05:32:35.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T05:32:35.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T05:32:40.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-22T05:33:06.937753+00:00"
+  },
+  {
+    "session_id": "705332e0-58d5-4723-9f73-105372f41c34",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-22T05:33:11.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T06:15:19.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T06:15:51.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T06:15:56.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T06:16:40.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T06:16:45.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T06:17:27.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T06:17:27.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T06:17:32.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 4,
+    "event_type": "step_completed",
+    "details": "Items validated",
+    "timestamp": "2026-09-22T06:18:13.937753+00:00"
+  },
+  {
+    "session_id": "b2d92a0d-0056-4f04-a28b-97234974907e",
+    "step_id": 4,
+    "event_type": "task_completed",
+    "details": "PO-450001024 created",
+    "timestamp": "2026-09-22T06:18:18.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T07:00:19.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T07:00:54.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T07:00:59.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T07:01:30.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T07:01:35.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T07:02:38.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T07:02:38.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T07:02:38.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T07:02:43.937753+00:00"
+  },
+  {
+    "session_id": "3dbcb000-880e-4e6a-8a95-30866a687b03",
+    "step_id": 4,
+    "event_type": "task_left",
+    "details": "Left before final submit",
+    "timestamp": "2026-09-22T07:03:05.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T07:45:19.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T07:45:44.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T07:45:49.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T07:46:09.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T07:46:14.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T07:46:58.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T07:46:58.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 3,
+    "event_type": "step_completed",
+    "details": "Vendor matched",
+    "timestamp": "2026-09-22T07:46:58.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 4,
+    "event_type": "step_entered",
+    "details": "Line items table",
+    "timestamp": "2026-09-22T07:47:03.937753+00:00"
+  },
+  {
+    "session_id": "2a6712aa-96b9-43e0-a23c-14258c178421",
+    "step_id": 4,
+    "event_type": "task_left",
+    "details": "Left before final submit",
+    "timestamp": "2026-09-22T07:47:45.937753+00:00"
+  },
+  {
+    "session_id": "8d1b9c5e-4bad-432f-87ab-2b8f9105441b",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T08:30:19.937753+00:00"
+  },
+  {
+    "session_id": "8d1b9c5e-4bad-432f-87ab-2b8f9105441b",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T08:30:54.937753+00:00"
+  },
+  {
+    "session_id": "8d1b9c5e-4bad-432f-87ab-2b8f9105441b",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T08:30:59.937753+00:00"
+  },
+  {
+    "session_id": "8d1b9c5e-4bad-432f-87ab-2b8f9105441b",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T08:31:20.937753+00:00"
+  },
+  {
+    "session_id": "8d1b9c5e-4bad-432f-87ab-2b8f9105441b",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T08:31:20.937753+00:00"
+  },
+  {
+    "session_id": "8d1b9c5e-4bad-432f-87ab-2b8f9105441b",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T08:31:25.937753+00:00"
+  },
+  {
+    "session_id": "8d1b9c5e-4bad-432f-87ab-2b8f9105441b",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T08:31:57.937753+00:00"
+  },
+  {
+    "session_id": "8d1b9c5e-4bad-432f-87ab-2b8f9105441b",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T08:31:57.937753+00:00"
+  },
+  {
+    "session_id": "0256f98d-5b16-47c5-abc3-08a451b0edd0",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T09:15:19.937753+00:00"
+  },
+  {
+    "session_id": "0256f98d-5b16-47c5-abc3-08a451b0edd0",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T09:15:36.937753+00:00"
+  },
+  {
+    "session_id": "0256f98d-5b16-47c5-abc3-08a451b0edd0",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T09:15:41.937753+00:00"
+  },
+  {
+    "session_id": "0256f98d-5b16-47c5-abc3-08a451b0edd0",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T09:16:17.937753+00:00"
+  },
+  {
+    "session_id": "0256f98d-5b16-47c5-abc3-08a451b0edd0",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T09:16:17.937753+00:00"
+  },
+  {
+    "session_id": "0256f98d-5b16-47c5-abc3-08a451b0edd0",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T09:16:22.937753+00:00"
+  },
+  {
+    "session_id": "0256f98d-5b16-47c5-abc3-08a451b0edd0",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T09:17:34.937753+00:00"
+  },
+  {
+    "session_id": "0256f98d-5b16-47c5-abc3-08a451b0edd0",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T09:17:34.937753+00:00"
+  },
+  {
+    "session_id": "0256f98d-5b16-47c5-abc3-08a451b0edd0",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T09:17:34.937753+00:00"
+  },
+  {
+    "session_id": "af52a399-9f6f-4ca5-88c9-295f316f20ad",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T10:00:19.937753+00:00"
+  },
+  {
+    "session_id": "af52a399-9f6f-4ca5-88c9-295f316f20ad",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T10:00:51.937753+00:00"
+  },
+  {
+    "session_id": "af52a399-9f6f-4ca5-88c9-295f316f20ad",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T10:00:56.937753+00:00"
+  },
+  {
+    "session_id": "af52a399-9f6f-4ca5-88c9-295f316f20ad",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T10:01:20.937753+00:00"
+  },
+  {
+    "session_id": "af52a399-9f6f-4ca5-88c9-295f316f20ad",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T10:01:25.937753+00:00"
+  },
+  {
+    "session_id": "af52a399-9f6f-4ca5-88c9-295f316f20ad",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T10:02:31.937753+00:00"
+  },
+  {
+    "session_id": "af52a399-9f6f-4ca5-88c9-295f316f20ad",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T10:02:31.937753+00:00"
+  },
+  {
+    "session_id": "af52a399-9f6f-4ca5-88c9-295f316f20ad",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T10:02:31.937753+00:00"
+  },
+  {
+    "session_id": "cc311bfe-8b70-429a-9ae7-cd6e6cd0c0b8",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T10:45:19.937753+00:00"
+  },
+  {
+    "session_id": "cc311bfe-8b70-429a-9ae7-cd6e6cd0c0b8",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T10:45:41.937753+00:00"
+  },
+  {
+    "session_id": "cc311bfe-8b70-429a-9ae7-cd6e6cd0c0b8",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T10:45:46.937753+00:00"
+  },
+  {
+    "session_id": "cc311bfe-8b70-429a-9ae7-cd6e6cd0c0b8",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T10:46:31.937753+00:00"
+  },
+  {
+    "session_id": "cc311bfe-8b70-429a-9ae7-cd6e6cd0c0b8",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T10:46:36.937753+00:00"
+  },
+  {
+    "session_id": "cc311bfe-8b70-429a-9ae7-cd6e6cd0c0b8",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T10:47:32.937753+00:00"
+  },
+  {
+    "session_id": "cc311bfe-8b70-429a-9ae7-cd6e6cd0c0b8",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T10:47:32.937753+00:00"
+  },
+  {
+    "session_id": "cc311bfe-8b70-429a-9ae7-cd6e6cd0c0b8",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T10:47:32.937753+00:00"
+  },
+  {
+    "session_id": "bf9a4161-2de8-4031-9960-8e0db942dd55",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T11:30:19.937753+00:00"
+  },
+  {
+    "session_id": "bf9a4161-2de8-4031-9960-8e0db942dd55",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T11:30:37.937753+00:00"
+  },
+  {
+    "session_id": "bf9a4161-2de8-4031-9960-8e0db942dd55",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T11:30:42.937753+00:00"
+  },
+  {
+    "session_id": "bf9a4161-2de8-4031-9960-8e0db942dd55",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T11:31:23.937753+00:00"
+  },
+  {
+    "session_id": "bf9a4161-2de8-4031-9960-8e0db942dd55",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T11:31:28.937753+00:00"
+  },
+  {
+    "session_id": "bf9a4161-2de8-4031-9960-8e0db942dd55",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T11:32:25.937753+00:00"
+  },
+  {
+    "session_id": "bf9a4161-2de8-4031-9960-8e0db942dd55",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T11:32:25.937753+00:00"
+  },
+  {
+    "session_id": "bf9a4161-2de8-4031-9960-8e0db942dd55",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T11:32:25.937753+00:00"
+  },
+  {
+    "session_id": "847c0ce0-39b0-4d64-a7bb-af9169c8b243",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T12:15:19.937753+00:00"
+  },
+  {
+    "session_id": "847c0ce0-39b0-4d64-a7bb-af9169c8b243",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T12:15:35.937753+00:00"
+  },
+  {
+    "session_id": "847c0ce0-39b0-4d64-a7bb-af9169c8b243",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T12:15:40.937753+00:00"
+  },
+  {
+    "session_id": "847c0ce0-39b0-4d64-a7bb-af9169c8b243",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T12:16:21.937753+00:00"
+  },
+  {
+    "session_id": "847c0ce0-39b0-4d64-a7bb-af9169c8b243",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T12:16:26.937753+00:00"
+  },
+  {
+    "session_id": "847c0ce0-39b0-4d64-a7bb-af9169c8b243",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T12:17:37.937753+00:00"
+  },
+  {
+    "session_id": "847c0ce0-39b0-4d64-a7bb-af9169c8b243",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T12:17:37.937753+00:00"
+  },
+  {
+    "session_id": "847c0ce0-39b0-4d64-a7bb-af9169c8b243",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T12:17:37.937753+00:00"
+  },
+  {
+    "session_id": "0c0b6b16-e792-4637-8557-7ad82332583f",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T13:00:19.937753+00:00"
+  },
+  {
+    "session_id": "0c0b6b16-e792-4637-8557-7ad82332583f",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T13:00:46.937753+00:00"
+  },
+  {
+    "session_id": "0c0b6b16-e792-4637-8557-7ad82332583f",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T13:00:51.937753+00:00"
+  },
+  {
+    "session_id": "0c0b6b16-e792-4637-8557-7ad82332583f",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T13:01:34.937753+00:00"
+  },
+  {
+    "session_id": "0c0b6b16-e792-4637-8557-7ad82332583f",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T13:01:39.937753+00:00"
+  },
+  {
+    "session_id": "0c0b6b16-e792-4637-8557-7ad82332583f",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T13:02:15.937753+00:00"
+  },
+  {
+    "session_id": "0c0b6b16-e792-4637-8557-7ad82332583f",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T13:02:15.937753+00:00"
+  },
+  {
+    "session_id": "0c0b6b16-e792-4637-8557-7ad82332583f",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T13:02:15.937753+00:00"
+  },
+  {
+    "session_id": "6fc8280c-6b4f-4f68-84fd-ba027ba497eb",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T13:45:19.937753+00:00"
+  },
+  {
+    "session_id": "6fc8280c-6b4f-4f68-84fd-ba027ba497eb",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T13:45:40.937753+00:00"
+  },
+  {
+    "session_id": "6fc8280c-6b4f-4f68-84fd-ba027ba497eb",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T13:45:45.937753+00:00"
+  },
+  {
+    "session_id": "6fc8280c-6b4f-4f68-84fd-ba027ba497eb",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T13:46:22.937753+00:00"
+  },
+  {
+    "session_id": "6fc8280c-6b4f-4f68-84fd-ba027ba497eb",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T13:46:27.937753+00:00"
+  },
+  {
+    "session_id": "6fc8280c-6b4f-4f68-84fd-ba027ba497eb",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T13:47:24.937753+00:00"
+  },
+  {
+    "session_id": "6fc8280c-6b4f-4f68-84fd-ba027ba497eb",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T13:47:24.937753+00:00"
+  },
+  {
+    "session_id": "6fc8280c-6b4f-4f68-84fd-ba027ba497eb",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T13:47:24.937753+00:00"
+  },
+  {
+    "session_id": "4200aef5-6f0a-4d68-b077-7ca28c177e41",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T14:30:19.937753+00:00"
+  },
+  {
+    "session_id": "4200aef5-6f0a-4d68-b077-7ca28c177e41",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T14:30:48.937753+00:00"
+  },
+  {
+    "session_id": "4200aef5-6f0a-4d68-b077-7ca28c177e41",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T14:30:53.937753+00:00"
+  },
+  {
+    "session_id": "4200aef5-6f0a-4d68-b077-7ca28c177e41",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T14:31:20.937753+00:00"
+  },
+  {
+    "session_id": "4200aef5-6f0a-4d68-b077-7ca28c177e41",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T14:31:25.937753+00:00"
+  },
+  {
+    "session_id": "4200aef5-6f0a-4d68-b077-7ca28c177e41",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T14:31:59.937753+00:00"
+  },
+  {
+    "session_id": "4200aef5-6f0a-4d68-b077-7ca28c177e41",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T14:31:59.937753+00:00"
+  },
+  {
+    "session_id": "4200aef5-6f0a-4d68-b077-7ca28c177e41",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T14:31:59.937753+00:00"
+  },
+  {
+    "session_id": "ca52eccb-fe81-4916-b272-6cf1c35e47a7",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T15:15:19.937753+00:00"
+  },
+  {
+    "session_id": "ca52eccb-fe81-4916-b272-6cf1c35e47a7",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T15:15:51.937753+00:00"
+  },
+  {
+    "session_id": "ca52eccb-fe81-4916-b272-6cf1c35e47a7",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T15:15:56.937753+00:00"
+  },
+  {
+    "session_id": "ca52eccb-fe81-4916-b272-6cf1c35e47a7",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T15:16:19.937753+00:00"
+  },
+  {
+    "session_id": "ca52eccb-fe81-4916-b272-6cf1c35e47a7",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T15:16:19.937753+00:00"
+  },
+  {
+    "session_id": "ca52eccb-fe81-4916-b272-6cf1c35e47a7",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T15:16:24.937753+00:00"
+  },
+  {
+    "session_id": "ca52eccb-fe81-4916-b272-6cf1c35e47a7",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T15:17:28.937753+00:00"
+  },
+  {
+    "session_id": "ca52eccb-fe81-4916-b272-6cf1c35e47a7",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T15:17:28.937753+00:00"
+  },
+  {
+    "session_id": "a25bfe50-c1ad-4f1e-b86e-e28fd00da6e6",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T16:00:19.937753+00:00"
+  },
+  {
+    "session_id": "a25bfe50-c1ad-4f1e-b86e-e28fd00da6e6",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T16:00:36.937753+00:00"
+  },
+  {
+    "session_id": "a25bfe50-c1ad-4f1e-b86e-e28fd00da6e6",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T16:00:41.937753+00:00"
+  },
+  {
+    "session_id": "a25bfe50-c1ad-4f1e-b86e-e28fd00da6e6",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T16:01:30.937753+00:00"
+  },
+  {
+    "session_id": "a25bfe50-c1ad-4f1e-b86e-e28fd00da6e6",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T16:01:35.937753+00:00"
+  },
+  {
+    "session_id": "a25bfe50-c1ad-4f1e-b86e-e28fd00da6e6",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T16:02:20.937753+00:00"
+  },
+  {
+    "session_id": "a25bfe50-c1ad-4f1e-b86e-e28fd00da6e6",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T16:02:20.937753+00:00"
+  },
+  {
+    "session_id": "a25bfe50-c1ad-4f1e-b86e-e28fd00da6e6",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T16:02:20.937753+00:00"
+  },
+  {
+    "session_id": "e290cf6e-b762-4fe4-8367-6616831e1c41",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T16:45:19.937753+00:00"
+  },
+  {
+    "session_id": "e290cf6e-b762-4fe4-8367-6616831e1c41",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T16:45:49.937753+00:00"
+  },
+  {
+    "session_id": "e290cf6e-b762-4fe4-8367-6616831e1c41",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T16:45:54.937753+00:00"
+  },
+  {
+    "session_id": "e290cf6e-b762-4fe4-8367-6616831e1c41",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T16:46:29.937753+00:00"
+  },
+  {
+    "session_id": "e290cf6e-b762-4fe4-8367-6616831e1c41",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T16:46:29.937753+00:00"
+  },
+  {
+    "session_id": "e290cf6e-b762-4fe4-8367-6616831e1c41",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T16:46:34.937753+00:00"
+  },
+  {
+    "session_id": "e290cf6e-b762-4fe4-8367-6616831e1c41",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T16:47:29.937753+00:00"
+  },
+  {
+    "session_id": "e290cf6e-b762-4fe4-8367-6616831e1c41",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T16:47:29.937753+00:00"
+  },
+  {
+    "session_id": "ccc3bf1e-8c51-47dd-9866-7e28c98c98de",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T17:30:19.937753+00:00"
+  },
+  {
+    "session_id": "ccc3bf1e-8c51-47dd-9866-7e28c98c98de",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T17:30:39.937753+00:00"
+  },
+  {
+    "session_id": "ccc3bf1e-8c51-47dd-9866-7e28c98c98de",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T17:30:44.937753+00:00"
+  },
+  {
+    "session_id": "ccc3bf1e-8c51-47dd-9866-7e28c98c98de",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T17:31:16.937753+00:00"
+  },
+  {
+    "session_id": "ccc3bf1e-8c51-47dd-9866-7e28c98c98de",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T17:31:16.937753+00:00"
+  },
+  {
+    "session_id": "ccc3bf1e-8c51-47dd-9866-7e28c98c98de",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T17:31:21.937753+00:00"
+  },
+  {
+    "session_id": "ccc3bf1e-8c51-47dd-9866-7e28c98c98de",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T17:32:15.937753+00:00"
+  },
+  {
+    "session_id": "ccc3bf1e-8c51-47dd-9866-7e28c98c98de",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T17:32:15.937753+00:00"
+  },
+  {
+    "session_id": "ccc3bf1e-8c51-47dd-9866-7e28c98c98de",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T17:32:15.937753+00:00"
+  },
+  {
+    "session_id": "2101c425-b4d7-4214-95fd-9a50efacb58e",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T18:15:19.937753+00:00"
+  },
+  {
+    "session_id": "2101c425-b4d7-4214-95fd-9a50efacb58e",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T18:15:48.937753+00:00"
+  },
+  {
+    "session_id": "2101c425-b4d7-4214-95fd-9a50efacb58e",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T18:15:53.937753+00:00"
+  },
+  {
+    "session_id": "2101c425-b4d7-4214-95fd-9a50efacb58e",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T18:16:22.937753+00:00"
+  },
+  {
+    "session_id": "2101c425-b4d7-4214-95fd-9a50efacb58e",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T18:16:27.937753+00:00"
+  },
+  {
+    "session_id": "2101c425-b4d7-4214-95fd-9a50efacb58e",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T18:17:43.937753+00:00"
+  },
+  {
+    "session_id": "2101c425-b4d7-4214-95fd-9a50efacb58e",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T18:17:43.937753+00:00"
+  },
+  {
+    "session_id": "b5f72b00-60d9-415b-9d93-ccb6eb9cb19b",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T19:00:19.937753+00:00"
+  },
+  {
+    "session_id": "b5f72b00-60d9-415b-9d93-ccb6eb9cb19b",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T19:00:51.937753+00:00"
+  },
+  {
+    "session_id": "b5f72b00-60d9-415b-9d93-ccb6eb9cb19b",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T19:00:56.937753+00:00"
+  },
+  {
+    "session_id": "b5f72b00-60d9-415b-9d93-ccb6eb9cb19b",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T19:01:37.937753+00:00"
+  },
+  {
+    "session_id": "b5f72b00-60d9-415b-9d93-ccb6eb9cb19b",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T19:01:42.937753+00:00"
+  },
+  {
+    "session_id": "b5f72b00-60d9-415b-9d93-ccb6eb9cb19b",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T19:02:21.937753+00:00"
+  },
+  {
+    "session_id": "b5f72b00-60d9-415b-9d93-ccb6eb9cb19b",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T19:02:21.937753+00:00"
+  },
+  {
+    "session_id": "b5f72b00-60d9-415b-9d93-ccb6eb9cb19b",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T19:02:21.937753+00:00"
+  },
+  {
+    "session_id": "656e69df-0f6d-45ba-bfb0-558701e2165f",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T19:45:19.937753+00:00"
+  },
+  {
+    "session_id": "656e69df-0f6d-45ba-bfb0-558701e2165f",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T19:45:40.937753+00:00"
+  },
+  {
+    "session_id": "656e69df-0f6d-45ba-bfb0-558701e2165f",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T19:45:45.937753+00:00"
+  },
+  {
+    "session_id": "656e69df-0f6d-45ba-bfb0-558701e2165f",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T19:46:35.937753+00:00"
+  },
+  {
+    "session_id": "656e69df-0f6d-45ba-bfb0-558701e2165f",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T19:46:35.937753+00:00"
+  },
+  {
+    "session_id": "656e69df-0f6d-45ba-bfb0-558701e2165f",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T19:46:40.937753+00:00"
+  },
+  {
+    "session_id": "656e69df-0f6d-45ba-bfb0-558701e2165f",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T19:47:57.937753+00:00"
+  },
+  {
+    "session_id": "656e69df-0f6d-45ba-bfb0-558701e2165f",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T19:47:57.937753+00:00"
+  },
+  {
+    "session_id": "656e69df-0f6d-45ba-bfb0-558701e2165f",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T19:47:57.937753+00:00"
+  },
+  {
+    "session_id": "6698d6b2-dcff-4877-b684-b5e8293488b2",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T20:30:19.937753+00:00"
+  },
+  {
+    "session_id": "6698d6b2-dcff-4877-b684-b5e8293488b2",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T20:30:44.937753+00:00"
+  },
+  {
+    "session_id": "6698d6b2-dcff-4877-b684-b5e8293488b2",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T20:30:49.937753+00:00"
+  },
+  {
+    "session_id": "6698d6b2-dcff-4877-b684-b5e8293488b2",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T20:31:10.937753+00:00"
+  },
+  {
+    "session_id": "6698d6b2-dcff-4877-b684-b5e8293488b2",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T20:31:10.937753+00:00"
+  },
+  {
+    "session_id": "6698d6b2-dcff-4877-b684-b5e8293488b2",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T20:31:15.937753+00:00"
+  },
+  {
+    "session_id": "6698d6b2-dcff-4877-b684-b5e8293488b2",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T20:32:15.937753+00:00"
+  },
+  {
+    "session_id": "6698d6b2-dcff-4877-b684-b5e8293488b2",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T20:32:15.937753+00:00"
+  },
+  {
+    "session_id": "6698d6b2-dcff-4877-b684-b5e8293488b2",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T20:32:15.937753+00:00"
+  },
+  {
+    "session_id": "3535ae16-28f5-4b2d-ab37-6466a194981d",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T21:15:19.937753+00:00"
+  },
+  {
+    "session_id": "3535ae16-28f5-4b2d-ab37-6466a194981d",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T21:15:50.937753+00:00"
+  },
+  {
+    "session_id": "3535ae16-28f5-4b2d-ab37-6466a194981d",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T21:15:55.937753+00:00"
+  },
+  {
+    "session_id": "3535ae16-28f5-4b2d-ab37-6466a194981d",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T21:16:20.937753+00:00"
+  },
+  {
+    "session_id": "3535ae16-28f5-4b2d-ab37-6466a194981d",
+    "step_id": 2,
+    "event_type": "step_completed",
+    "details": "Header saved",
+    "timestamp": "2026-09-22T21:16:20.937753+00:00"
+  },
+  {
+    "session_id": "3535ae16-28f5-4b2d-ab37-6466a194981d",
+    "step_id": 3,
+    "event_type": "step_entered",
+    "details": "Vendor input screen",
+    "timestamp": "2026-09-22T21:16:25.937753+00:00"
+  },
+  {
+    "session_id": "3535ae16-28f5-4b2d-ab37-6466a194981d",
+    "step_id": 3,
+    "event_type": "wrong_click",
+    "details": "Invalid vendor code input",
+    "timestamp": "2026-09-22T21:17:27.937753+00:00"
+  },
+  {
+    "session_id": "3535ae16-28f5-4b2d-ab37-6466a194981d",
+    "step_id": 3,
+    "event_type": "idle_timeout",
+    "details": "No progress for 45s",
+    "timestamp": "2026-09-22T21:17:27.937753+00:00"
+  },
+  {
+    "session_id": "3535ae16-28f5-4b2d-ab37-6466a194981d",
+    "step_id": 3,
+    "event_type": "task_left",
+    "details": "Abandoned at vendor step",
+    "timestamp": "2026-09-22T21:17:27.937753+00:00"
+  },
+  {
+    "session_id": "1cd25d6f-4460-42e5-a6a5-34f6ff70f770",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T22:00:19.937753+00:00"
+  },
+  {
+    "session_id": "1cd25d6f-4460-42e5-a6a5-34f6ff70f770",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T22:00:39.937753+00:00"
+  },
+  {
+    "session_id": "1cd25d6f-4460-42e5-a6a5-34f6ff70f770",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T22:00:44.937753+00:00"
+  },
+  {
+    "session_id": "1cd25d6f-4460-42e5-a6a5-34f6ff70f770",
+    "step_id": 2,
+    "event_type": "task_left",
+    "details": "Learner navigated away",
+    "timestamp": "2026-09-22T22:01:06.937753+00:00"
+  },
+  {
+    "session_id": "8749555c-29a8-4d10-9efa-f71a66fa09a1",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T22:45:19.937753+00:00"
+  },
+  {
+    "session_id": "8749555c-29a8-4d10-9efa-f71a66fa09a1",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T22:45:41.937753+00:00"
+  },
+  {
+    "session_id": "8749555c-29a8-4d10-9efa-f71a66fa09a1",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T22:45:46.937753+00:00"
+  },
+  {
+    "session_id": "8749555c-29a8-4d10-9efa-f71a66fa09a1",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-22T22:46:18.937753+00:00"
+  },
+  {
+    "session_id": "8749555c-29a8-4d10-9efa-f71a66fa09a1",
+    "step_id": 2,
+    "event_type": "task_left",
+    "details": "Learner navigated away",
+    "timestamp": "2026-09-22T22:46:18.937753+00:00"
+  },
+  {
+    "session_id": "0fb435fe-10ec-4ce6-9dd9-1e16f81669d2",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-22T23:30:19.937753+00:00"
+  },
+  {
+    "session_id": "0fb435fe-10ec-4ce6-9dd9-1e16f81669d2",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-22T23:30:52.937753+00:00"
+  },
+  {
+    "session_id": "0fb435fe-10ec-4ce6-9dd9-1e16f81669d2",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-22T23:30:57.937753+00:00"
+  },
+  {
+    "session_id": "0fb435fe-10ec-4ce6-9dd9-1e16f81669d2",
+    "step_id": 2,
+    "event_type": "task_left",
+    "details": "Learner navigated away",
+    "timestamp": "2026-09-22T23:31:24.937753+00:00"
+  },
+  {
+    "session_id": "6eda2345-dae6-4c1d-8b9d-319d94ad04bf",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-23T00:15:19.937753+00:00"
+  },
+  {
+    "session_id": "6eda2345-dae6-4c1d-8b9d-319d94ad04bf",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-23T00:15:35.937753+00:00"
+  },
+  {
+    "session_id": "6eda2345-dae6-4c1d-8b9d-319d94ad04bf",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-23T00:15:40.937753+00:00"
+  },
+  {
+    "session_id": "6eda2345-dae6-4c1d-8b9d-319d94ad04bf",
+    "step_id": 2,
+    "event_type": "wrong_click",
+    "details": "Clicked outside input fields",
+    "timestamp": "2026-09-23T00:16:19.937753+00:00"
+  },
+  {
+    "session_id": "6eda2345-dae6-4c1d-8b9d-319d94ad04bf",
+    "step_id": 2,
+    "event_type": "task_left",
+    "details": "Learner navigated away",
+    "timestamp": "2026-09-23T00:16:19.937753+00:00"
+  },
+  {
+    "session_id": "7a8ce3fe-6f50-4749-a8e1-3ece0ad0e2a0",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-23T01:00:19.937753+00:00"
+  },
+  {
+    "session_id": "7a8ce3fe-6f50-4749-a8e1-3ece0ad0e2a0",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-23T01:00:52.937753+00:00"
+  },
+  {
+    "session_id": "7a8ce3fe-6f50-4749-a8e1-3ece0ad0e2a0",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-23T01:00:57.937753+00:00"
+  },
+  {
+    "session_id": "7a8ce3fe-6f50-4749-a8e1-3ece0ad0e2a0",
+    "step_id": 2,
+    "event_type": "task_left",
+    "details": "Learner navigated away",
+    "timestamp": "2026-09-23T01:01:35.937753+00:00"
+  },
+  {
+    "session_id": "c943f694-e545-4d0d-a785-92e7376cb8b0",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-23T01:45:19.937753+00:00"
+  },
+  {
+    "session_id": "c943f694-e545-4d0d-a785-92e7376cb8b0",
+    "step_id": 1,
+    "event_type": "step_completed",
+    "details": "Menu opened",
+    "timestamp": "2026-09-23T01:45:42.937753+00:00"
+  },
+  {
+    "session_id": "c943f694-e545-4d0d-a785-92e7376cb8b0",
+    "step_id": 2,
+    "event_type": "step_entered",
+    "details": "Header inputs shown",
+    "timestamp": "2026-09-23T01:45:47.937753+00:00"
+  },
+  {
+    "session_id": "c943f694-e545-4d0d-a785-92e7376cb8b0",
+    "step_id": 2,
+    "event_type": "task_left",
+    "details": "Learner navigated away",
+    "timestamp": "2026-09-23T01:46:13.937753+00:00"
+  },
+  {
+    "session_id": "d362d51c-1944-4af2-9bc7-a08501a9abe7",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-23T02:30:19.937753+00:00"
+  },
+  {
+    "session_id": "d362d51c-1944-4af2-9bc7-a08501a9abe7",
+    "step_id": 1,
+    "event_type": "task_left",
+    "details": "Learner closed session",
+    "timestamp": "2026-09-23T02:30:44.937753+00:00"
+  },
+  {
+    "session_id": "6e5d2980-33ba-4f40-8877-0caccd7b0f59",
+    "step_id": 1,
+    "event_type": "step_entered",
+    "details": "Navigated to ME21N",
+    "timestamp": "2026-09-23T03:15:19.937753+00:00"
+  },
+  {
+    "session_id": "6e5d2980-33ba-4f40-8877-0caccd7b0f59",
+    "step_id": 1,
+    "event_type": "task_left",
+    "details": "Learner closed session",
+    "timestamp": "2026-09-23T03:15:41.937753+00:00"
+  }
+]

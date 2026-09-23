@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "step_number": 1,
+    "title": "Navigate to Purchase Orders",
+    "instruction": "Open the Procurement menu and select Create Purchase Order (ME21N).",
+    "hint_text": "Press Tab to reach the Procurement menu item or click directly on the left sidebar."
+  },
+  {
+    "id": 2,
+    "step_number": 2,
+    "title": "Enter Organization Header",
+    "instruction": "Fill in Purchasing Organization (1000) and Purchasing Group (001).",
+    "hint_text": "Use Tab to navigate between Header fields. Pre-filled defaults can be kept."
+  },
+  {
+    "id": 3,
+    "step_number": 3,
+    "title": "Select Vendor & Terms",
+    "instruction": "Enter the designated Vendor Code (US-VEND-100) and assign payment terms.",
+    "hint_text": "Look up vendor code in the directory or type US-VEND-100 directly into the Vendor field."
+  },
+  {
+    "id": 4,
+    "step_number": 4,
+    "title": "Add Line Items & Submit",
+    "instruction": "Enter Material Number (M-01), Quantity (10), and click Save & Submit PO.",
+    "hint_text": "Review total net value in the item summary table before pressing Submit."
+  }
+]
